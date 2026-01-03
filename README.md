@@ -1,4 +1,3 @@
-#Problem Statement: Automated well log correlation using Dynamic Time Warping with geological validation.
 # Well Log Correlation Using Dynamic Time Warping
 
 This repository implements well log correlation using the Dynamic Time
